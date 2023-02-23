@@ -2,7 +2,9 @@
 ## Mandatory Exercises:
 1. Given a warehouse with a layout similar to the following, calculate the shortest path (and distance) between 2 positions in the warehouse, given the coordinates of these positions, using the A* algorithm.
 
-![Warehouse Example](warehouse.png)
+<p align="center">
+  <img src="./warehouse.png">
+</p>
 
 
 2. Given an order, which includes a list of products from the previous warehouse that must be dispatched in full, determine the optimal order for the picking operation using Simulated Annealing. What other algorithms can be used for this task?
