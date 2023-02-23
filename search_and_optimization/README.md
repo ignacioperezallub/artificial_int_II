@@ -19,6 +19,11 @@ Optional Exercises:
 
 4. Given a point in the joint space of a 6 degree-of-freedom serial robot, find the shortest path to reach another point using the A* algorithm. Randomly generate start and end points, as well as obstacles that the robot must avoid, always in joint space.
 
+<p align="center">
+  <img src="./robot.png">
+</p>
+
+
 5. Implement a constraint satisfaction algorithm to solve a scheduling problem. The scheduling problem consists of assigning resources to tasks. Model the variables, domain of the variables, constraints, etc. Assume that:
 * There is a certain number of tasks that must be performed.
 * Each task requires a specific machine (not all machines are of the same type).
